@@ -14,3 +14,6 @@ We're almost finished. Time for a really important fact: [fact number 4]
 
 Fact number 5:
 Elijah Wood here with the final cat fact. Here it is: [cat fact 5]
+
+Fact number 6:
+Cats are four legged animals.
