@@ -1,7 +1,7 @@
 Welcome to Cat News. Here is our countdown of the 5 most famous cats.
 
 Number 5:
-Our countdown stars with famous cat [cat 5]. What a great story!
+Our countdown stars with famous cat LOki[cat 5]. What a great story!
 
 Number 4:
 Hi, I'm Kristen Bell and I'm here to introduce a famous cat! It's Ash.
@@ -14,3 +14,4 @@ The second to last famous cat is [cat 2], who you've probably heard of before.
 
 Number 1:
 Beyoncé here, I'm so honoured to be on Cat News with so many famous people. Our final famous cat is Mikey.
+
